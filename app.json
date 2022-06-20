@@ -1,0 +1,14 @@
+{
+    "name": "oivnoq",
+    "description": "riuf739",
+    "logo":"hhaha",
+    "keywords": ["breygv3y678__td7vusvdufsg"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/dihoih/rax",
+    "stack": "container"
+}
